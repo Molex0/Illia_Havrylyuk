@@ -19,3 +19,5 @@
 # Reference for help documentation
 
 - https://restsharp.dev/v107/#restsharp-v107
+
+- https://www.dropbox.com/developers/documentation/http/documentation
